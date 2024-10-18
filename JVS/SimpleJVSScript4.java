@@ -48,5 +48,6 @@ public class SimpleJVSScript4 extends AbstractGenericScript {
 
     public void execute(Table argt, Table returnt) throws OException {
         // TODO: Start writing code here
+		OConsole.oprint("Weather is very good ");
     }
 }
