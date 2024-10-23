@@ -51,6 +51,7 @@ public class SimpleJVSScript4 extends AbstractGenericScript {
 		String city = "in Singapore";
 		OConsole.oprint("Weather is very good " + city);
 		OConsole.oprint("iam here");
+		Oconsole.oprint("Nice to have you here");
 		
     }
 }
