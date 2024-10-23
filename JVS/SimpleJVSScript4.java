@@ -50,6 +50,7 @@ public class SimpleJVSScript4 extends AbstractGenericScript {
         // TODO: Start writing code here
 		String city = "in Singapore";
 		OConsole.oprint("Weather is very good " + city);
-		OConsole.oprint("")
+		OConsole.oprint("iam here");
+		
     }
 }
